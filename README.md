@@ -20,7 +20,7 @@ $ npm install @nestjs/cli serverless -g
 $ git clone git@github.com:rdlabo/serverless-nestjs.git 【projectName】
 $ cd 【projectName】
 $ npm install
-$ npm start
+$ npm start (or npm run start:dev for development)
 ```
 
 ### Development
